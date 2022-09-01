@@ -1,0 +1,16 @@
+.W_S {
+    max-width: 1125px;
+    width: 100%;
+}
+/* .m_t {
+    margin-top: 140px;
+} */
+@media screen and (max-width:500px) {
+   
+    
+    body {
+        background-color: red;
+    }
+
+    
+}
